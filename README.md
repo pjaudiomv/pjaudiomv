@@ -14,7 +14,7 @@
 
 ### 🚀 What I'm building
 
-<!-- - **[NA Meetings Near Me](https://nameetingsnearme.app)** — a today-first finder for Narcotics Anonymous meetings near you. One SvelteKit + Capacitor codebase shipping as a web app, iOS and Android. -->
+- **[NA Meetings Near Me](https://nameetingsnearme.app)** — a today-first finder for Narcotics Anonymous meetings near you. One SvelteKit + Capacitor codebase shipping as a web app, iOS and Android.
 - **[Crumb](https://github.com/bmlt-enabled/crumb-widget)** — an embeddable NA meeting finder widget you can drop into any website. → [crumb.bmlt.app](https://crumb.bmlt.app/)
 - **[kaniko-ci-toolkit](https://github.com/pjaudiomv/kaniko-ci-toolkit)** — a Kaniko-based container builder for CI, bundled with Crane, Cosign, ORAS, Vault and friends.
 - **[lean-smtp](https://github.com/pjaudiomv/lean-smtp)** — minimal SMTP & API mail routing for WordPress.
